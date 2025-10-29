@@ -3,7 +3,7 @@
 - Java 21 o superior
 - JavaFx 21
 
-##Contenido
+## Contenido
 
 Genera un fichero PDF con los datos introducidos en el formulario.
 
