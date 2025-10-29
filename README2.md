@@ -1,2 +1,0 @@
-Prueba conflicto
-más cosas
